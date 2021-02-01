@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{363:function(t,e,n){"use strict";n.r(e);var a={name:"get-request",data:function(){return{totalVuePackages:null}}},s=n(42),u=Object(s.a)(a,(function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("p",[this._v(" "+this._s(this.totalVuePackages)+" ")])])}),[],!1,null,null,null);e.default=u.exports}}]);
